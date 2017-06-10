@@ -1,0 +1,6 @@
+.DS_Store
+.floydexpt
+.floydignore
+.ipynb_checkpoints/
+__pycache__/
+data/
